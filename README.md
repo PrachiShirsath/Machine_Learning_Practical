@@ -2,6 +2,7 @@
 Spotify_Analysis_dataset(kaggle)
 
 🧠 Tools & Technologies:
+
 Python
 Pandas
 NumPy
@@ -12,6 +13,7 @@ Jupyter Notebook
 Git & GitHub
 
 📂 Repository Structure:
+
 Practical01-Load-Dataset
 
 Practical02-Data-Cleaning
