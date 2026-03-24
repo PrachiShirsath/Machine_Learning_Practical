@@ -21,14 +21,23 @@
 
 ## 📂 Repository Structure
 Practical01-Load-Dataset
+
 Practical02-Data-Cleaning
+
 Practical03-Simple-Linear-Regression
+
 Practical04-Multiple-Linear-Regression
+
 Practical05-Logistic-Regression
+
 Practical06-Decision-Tree
+
 Practical07-Support-Vector-Machine
+
 Practical08-Random-Forest
+
 Practical09-Gradient-Descent
+
 Practical10-Neural-Network
 
 
